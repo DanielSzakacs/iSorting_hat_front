@@ -1,4 +1,4 @@
-# Sorting hat => iSortingHat
+# Sorting hat -> iSortingHat
 Hello, 
 This is a small, short-term pet project. 
 The main goal was to create an API for a random school by using Spring framework, maven, creating Students model, and CRUD Rest endpoints for the students.
